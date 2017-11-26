@@ -4,3 +4,4 @@ I have set the user name and email info.
 了解暂存区
 git tracks changes of files
 edit in branch dev
+edit in branch master
