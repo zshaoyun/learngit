@@ -6,3 +6,4 @@ git tracks changes of files
 edit in branch dev
 edit in branch feature1
 edit in branch dev again
+bug
